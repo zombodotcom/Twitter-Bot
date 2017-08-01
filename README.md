@@ -1,5 +1,5 @@
 # Twitter-Bot
-Takes a list of handles, and a message and randomly tweets that message to them once going through the list of handles
+Takes a list of handles, and a message. randomly tweets that message to them once going through the list of handles
 
 
 twitter bot with python/tweepy
