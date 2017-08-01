@@ -6,7 +6,7 @@ twitter bot with python/tweepy
 
 runs with the command line arguments
 
-python nudge.py handles.txt message.txt
+"python nudge.py handles.txt message.txt"
 
 filename of message.txt can be whatever you want
 
